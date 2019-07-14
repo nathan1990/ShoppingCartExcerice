@@ -1,6 +1,7 @@
 # Visual Studio temporary settings
 # *.suo
 # *.user
+.vs/**
 
 # Shared output folder
 /[Bb]uild/
